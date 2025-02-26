@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bora Özel</h1>
-<h3 align="center">A computer engineering student, developing himself as a iOS developer</h3>
+<h3 align="center">A computer engineering student, developing himself as an iOS developer</h3>
 
 - 🌱 I’m currently learning **Swift, SwiftUI**
 
