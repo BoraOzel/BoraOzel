@@ -18,6 +18,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boraozel&show_icons=true&locale=en" alt="boraozel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boraozel&" alt="boraozel" /></p>
 
 
