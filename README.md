@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bora Özel</h1>
 <h3 align="center">A computer engineering student, developing himself as an iOS developer</h3>
 
-- 🌱 🔭 I'm currently working on developing various iOS projects to enhance my skills in Swift and mobile architecture.
+- 🔭 I'm currently working on developing various iOS projects to enhance my skills in Swift and mobile architecture.
 
 - 📫 How to reach me **bboraozell@gmail.com**
 
